@@ -1,0 +1,40 @@
+{
+  "Welcome": "Welcome",
+  "A brand new app.": "A brand new app.",
+
+  "admin.UnauthRequest": "Unauthorized Request. Try logging in",
+  "admin.InternalServerError": "Internal Server Error. Try again later",
+
+  "admin.AuthInvalidPhone": "Invalid phone number",
+  "admin.AuthOTPNotGenerated": "Internal server error. Try again later",
+  "admin.AuthOTPGenerated": "OTP sent to enetered phone number",
+  "admin.AuthLoginDetailsIncorrect": "Invalid phone or OTP",
+  "admin.AuthSuccessful": "Successfully created admin",
+  "admin.WrongToken": "Bad Request. Token not verified",
+  "admin.LogoutError": "Some error occurred while logging out",
+  "admin.LogoutSuccessful": "Successfully logged out",
+
+  "admin.MakeNotFound": "Error in retrieving make list",
+  "admin.MakeFound": "Make list retrieved successfully",
+  "admin.DuplicateMake": "Make with this code already exists!",
+  "admin.MakeInvalidDetails": "Invalid name or code",
+  "admin.MakeSuccessful": "Make created successfully",
+  "admin.MakeUpdateDuplicateCode": "Make with this code already exists!",
+  "admin.MakeUpdateSuccessful": "Make updated successfully",
+  "admin.MakeDeleteError": "Error in deleting make. Incorrect code",
+  "admin.MakeDeleteSuccessful": "Successfully deleted make",
+
+  "admin.ModelNotFound": "Error in retrieving model list",
+  "admin.ModelFound": "Model list retrieved successfully",
+  "admin.ModelInvalidCode": "Invalid makeCode",
+  "admin.ModelDuplicateName": "Model with this name already exists!",
+  "admin.ModelDetailsIncorrect": "Invalid name or makeCode",
+  "admin.ModelCreateError": "Error in creating model. Try again later",
+  "admin.ModelSuccessful": "Model created successfully",
+  "admin.ModelUpdateMakeDoesNotExist": "No such make exists",
+  "admin.ModelDoesNotExist": "Invalid id. No such model exists",
+  "admin.ModelUpdateSuccessful": "Model updated successfully",
+  "admin.ModelDeleteSuccessful": "Model deleted successfully",
+
+  "customer.AuthInvalidPhone": "Invalid phone number"
+}
